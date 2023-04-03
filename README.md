@@ -1,7 +1,7 @@
 # JPMC Task 3
 Starter repo for task 3 of JPMC's Forage program
 
-Links to the other task:
+Links to the other tasks:
 
 Task 1: https://github.com/Reynaldo-18/jpmc-task-1
 ###
